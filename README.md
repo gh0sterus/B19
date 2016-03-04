@@ -15,7 +15,7 @@ Dedicata allo **sviluppo** e alla **progettazione** di software.
 ##Membri partecipanti:
 
 **Studenti:**
-  * Bottaro		[@cbottaro1](https://github.com/cbottaro1)
+  * Bottaro		@?
   * Buffo		[@BuffoEu](https://github.com/BuffoEu)
   * Caminiti	[@AlCaminiti](https://github.com/AlCaminiti)
   * Cannizzaro	[@CannizzaroCristian](https://github.com/CannizzaroCristian)
@@ -23,13 +23,13 @@ Dedicata allo **sviluppo** e alla **progettazione** di software.
   * Curcuruto	[@GianlucaCu](https://github.com/GianlucaCu)
   * Gatto		[@TrollVicko](https://github.com/TrollVicko)
   * Grioli		[@GabGr](https://github.com/GabGr)
-  * Gugliandolo	[@MaLoSSi](https://github.com/MaLoSSi)
-  * Merlino		[@Gh0sterus](https://github.com/Gh0sterus)
+  * Gugliandolo	@?
+  * Merlino		[@Gh0sTerus](https://github.com/Gh0sTerus)
   * Segullo		[@DavideSegullo](https://github.com/DavideSegullo)
 
 **Prof:**
   * Currò		[@Giuseppecurro](https://github.com/Giuseppecurro)
-  * Terrizzi	[@?](https://github.com/)
+  * Terrizzi	@?
 
 Repository creata unicamente a scopo educativo.
 
