@@ -9,3 +9,4 @@ If you have trouble getting your PI to boot, or have difficulty getting any vide
 Se hai un Pi settato e in funzione e vuoi qualche idea su cosa fare dopo, puoi consultare la nostra Resources page.
 integrazioni effettuate da curro giuseppe
 integrazioni effettuate da grioli gabriele :^)
+integrazioni effettuate da Merlino Elia :)
